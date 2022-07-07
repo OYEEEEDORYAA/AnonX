@@ -4,7 +4,7 @@ A powerful modular group management bot for managing Telegram groups. This bot m
 In case of any query, support and information, report in [Anon Official Support Group](https://telegram.dog/AnonXChats). Also, follow the [Updates channel](https://telegram.dog/TheAnonX) to know the latest updates
 whenever we push something new.
 
-## Overview 🔭
+# Overview 🔭
 
 AnonX is the Telegram management bot project which help users to manage their grps/ channels
 with its powerful added modules. Some of the noticable features are :
