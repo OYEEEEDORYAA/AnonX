@@ -44,7 +44,7 @@ of the following ways :
 - Open pull request with perfect **fix**.
 - GPROMOTE the original bot.
  
-# Acknowledgement ✨
+# Acknowledgement 📝 
 
 AnonX has been inspired from many open source projects and special thanks to cool libraries like [Telethon](https://github.com/LonamiWebs/Telethon)
 and [Pyrogram](https://github.com/pyrogram/pyrogram). Some projects/ people which/ who empowered the project are :
