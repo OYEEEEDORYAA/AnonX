@@ -15,3 +15,9 @@ with its powerful added modules. Some of the noticable features are :
 - Support Inline
 - AI based Bot based on powerful Database.
 
+# Installation
+
+> Make sure you have a Heroku account to host an app in Heroku's server. Forking is highly recommended.
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AnonXTG/AnonX)
+
