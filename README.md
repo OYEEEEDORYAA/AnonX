@@ -15,13 +15,23 @@ with its powerful added modules. Some of the noticable features are :
 - Support Inline
 - AI based Bot based on powerful Database.
 
+
+### Some Important Vars ⚡
+
+- API_ID | Get it from my.telegram.org 
+- API_HASH | Get it from my.telegram.org 
+- TOKEN | from @BotFather 
+- OWNER_ID | DM any management bot and send /id and get that  
+- DEV_USERS | same as OWNER_ID 
+- String | Telethon string 
+
 # Installation ⬇️
 
 > Make sure you have a Heroku account to host an app in Heroku's server. Forking is highly recommended.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AnonXTG/AnonX)
 
-# Support/ Assitance 🖇️
+# Support / Assitance 🖇️
 
 If you want any kind of support, do visit [@AnonXChats](https://t.me/AnonXChats).
 
@@ -33,3 +43,5 @@ of the following ways :
 - Fork the repository.
 - Open pull request with perfect **fix**.
 - GPROMOTE the original bot.
+
+# 
