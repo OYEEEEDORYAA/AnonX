@@ -15,9 +15,21 @@ with its powerful added modules. Some of the noticable features are :
 - Support Inline
 - AI based Bot based on powerful Database.
 
-# Installation
+# Installation ⬇️
 
 > Make sure you have a Heroku account to host an app in Heroku's server. Forking is highly recommended.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AnonXTG/AnonX)
 
+# Support/ Assitance 🖇️
+
+If you want any kind of support, do visit [@AnonXChats](https://t.me/AnonXChats).
+
+If you want to contribute in AnonX..!!!
+> Firstly thanks for giving a think to assist our project. You can help our project to empower by one 
+of the following ways :
+
+- Star the Project.
+- Fork the repository.
+- Open pull request with perfect **fix**.
+- GPROMOTE the original bot.
