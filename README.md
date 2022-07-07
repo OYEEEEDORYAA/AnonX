@@ -4,7 +4,7 @@ A powerful modular group management bot for managing Telegram groups. This bot m
 In case of any query, support and information, report in [Anon Official Support Group](https://telegram.dog/AnonXChats). Also, follow the [Updates channel](https://telegram.dog/TheAnonX) to know the latest updates
 whenever we push something new.
 
-# Overview 🔭
+## Overview 🔭
 
 AnonX is the Telegram management bot project which help users to manage their grps/ channels
 with its powerful added modules. Some of the noticable features are :
@@ -16,7 +16,7 @@ with its powerful added modules. Some of the noticable features are :
 - AI based Bot based on powerful Database.
 
 
-# Some Important Vars ⚡
+## Some Important Vars ⚡
 
 - `API_ID` | Get it from my.telegram.org 
 - `API_HASH` | Get it from my.telegram.org 
@@ -25,13 +25,13 @@ with its powerful added modules. Some of the noticable features are :
 - `DEV_USERS` | same as OWNER_ID 
 - `String` | Telethon string 
 
-# Installation ⬇️
+## Installation ⬇️
 
 > Make sure you have a Heroku account to host an app in Heroku's server. Forking is highly recommended.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AnonXTG/AnonX)
 
-# Support / Assitance 🖇️
+## Support / Assitance 🖇️
 
 If you want any kind of support, do visit [@AnonXChats](https://t.me/AnonXChats).
 
@@ -44,7 +44,7 @@ of the following ways :
 - Open pull request with perfect **fix**.
 - GPROMOTE the original bot.
  
-# Acknowledgement 📝 
+## Acknowledgement 📝 
 
 AnonX has been inspired from many open source projects and special thanks to cool libraries like [Telethon](https://github.com/LonamiWebs/Telethon)
 and [Pyrogram](https://github.com/pyrogram/pyrogram). Some projects/ people which/ who empowered the project are :
