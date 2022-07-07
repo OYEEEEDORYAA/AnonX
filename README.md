@@ -43,5 +43,13 @@ of the following ways :
 - Fork the repository.
 - Open pull request with perfect **fix**.
 - GPROMOTE the original bot.
+ 
+# Acknowledgement ✨
 
-# 
+AnonX has been inspired from many open source projects and special thanks to cool libraries like [Telethon](https://github.com/LonamiWebs/Telethon)
+and [Pyrogram](https://github.com/pyrogram/pyrogram). Some projects/ people which/ who empowered the project are :
+
+- [Zeus](https://github.com/zeusop5) - Creator and Main Dev of the project.
+- [Akhil PR](https://github.com/akhilprs) - Dev of AnonX.
+- More Adding...!!!
+
