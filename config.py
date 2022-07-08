@@ -28,15 +28,11 @@ WOLVES = {int(x) for x in os.environ.get("WOLVES", "").split()}
 
 # can add multiple with spaces
 TIGERS = {int(x) for x in os.environ.get("TIGERS", "").split()}
-
-# Should I show profile pic of user in /info command? 
-# default value is true
+ 
 INFOPIC = bool(os.environ.get("INFOPIC", True)) or "https://te.legra.ph/file/d32e45c80e56fa1f97af1.jpg"
 
-# Make a new group then add @ScenarioXbot then send /id and fill id here.
 EVENT_LOGS = os.environ.get("EVENT_LOGS", None)
 
-# Make a new group then add @ScenarioXbot then send /id and fill id here.
 ERROR_LOGS = os.environ.get("ERROR_LOGS", None)
 
 # Don't touch if you don't know.
@@ -75,9 +71,9 @@ REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", "")
 
 OPENWEATHERMAP_ID = os.environ.get("OPENWEATHERMAP_ID", "") # From:- https://openweathermap.org/api
 GENIUS_API_TOKEN = os.environ.get("GENIUS_API_TOKEN", None) # From:- http://genius.com/api-clients
-MONGO_DB_URL = os.environ.get("MONGO_DB_URL", "mongodb+srv://Cluster006:600510@cluster006.ootpa.mongodb.net/Cluster006?retryWrites=true&w=majority")
-REDIS_URL = os.environ.get("REDIS_URL", "redis://Madharjoot:GuKhao123_@redis-12276.c275.us-east-1-4.ec2.cloud.redislabs.com:12276/Madharjoot")
-BOT_ID = int(os.environ.get("BOT_ID", None)) # Telegram Bot ID (EXP:- 1241223850)
+MONGO_DB_URL = os.environ.get("MONGO_DB_URL", "True")
+REDIS_URL = os.environ.get("REDIS_URL", "True")
+BOT_ID = int(os.environ.get("BOT_ID", None)) # Get the user ID of bot, if you are using Telegram's unofficial app, it is easy to find.
 SUPPORT_CHAT = os.environ.get("SUPPORT_CHAT", None) # Support Chat Group Link (Use AnonXChats || Dont Use https://t.me/AnonXChats)
 SPAMWATCH_SUPPORT_CHAT = os.environ.get("SPAMWATCH_SUPPORT_CHAT", None) # Use @SpamWatchSupport
 SPAMWATCH_API = os.environ.get("SPAMWATCH_API", None) # From https://t.me/SpamWatchBot 
@@ -111,7 +107,7 @@ anon_pic = os.environ.get("anon_pic", True) or "@https://te.legra.ph/file/d32e45
 BL_CHATS = {int(x) for x in os.environ.get("BL_CHATS", "").split()}
 
 
-# Don't Change if you don't know what to do here...!!!
+# Don't Change anything if you don't know what to do here...!!!
 
 LOAD = os.environ.get("LOAD", "").split() 
 
