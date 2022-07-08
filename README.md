@@ -57,7 +57,7 @@ If you want to contribute in AnonX..!!!
 > Firstly thanks for giving a think to assist our project. You can help our project to empower by one 
 of the following ways :
 
-- [Star](https://github.com/AnonXTG/AnonX/star) the project.
+- [Star](https://github.com/AnonXTG/AnonX/stargazers) the project.
 - [Fork](https://github.com/AnonXTG/AnonX/fork) the repository.
 - Open pull request with perfect **fix**.
 - GPROMOTE the original bot.
