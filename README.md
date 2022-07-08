@@ -16,10 +16,10 @@ know the latest updates
 whenever we push something new.
 ```
 
+The main bot for which these source codes has been made can be found on Telegram as [@AnonX_Robot](https://t.me/AnonX_Robot).
+
 <a href="https://t.me/TheAnonX"> <img src="https://img.shields.io/badge/Update-Channel-red?style=for-the-badge&logo=telegram" /></a> </p>
 <a href="https://t.me/AnonXChats"> <img src="https://img.shields.io/badge/Support-Group-red?style=for-the-badge&logo=telegram" /></a> </p>
-
-The main bot for which these source codes has been made can be found on Telegram as [@AnonX_Robot](https://t.me/AnonX_Robot).
 
 ## Overview 🔭
 
