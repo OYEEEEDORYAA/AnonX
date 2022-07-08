@@ -50,4 +50,4 @@ AnonX has been inspired from many open source projects and special thanks to coo
 and [Pyrogram](https://github.com/pyrogram/pyrogram). Some projects/ people which/ who empowered the project are :
 
 - [Zeus](https://github.com/zeusop5) - Creator and Main Dev
-- [Akhil PR](https://github.com/akhilprs) - Dev
+- [Akhil PR](https://github.com/akhilprs) - Dev of AnonX
