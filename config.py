@@ -16,8 +16,6 @@
 
 # ---------------------------------------------------------------------
 
-
-
 import os
 
 # Some Vars are already filled you need not to fill the again
