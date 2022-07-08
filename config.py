@@ -118,7 +118,7 @@ UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "TheAnonX")
 
 HELP_IMG = os.environ.get("HELP_IMG", True) or "https://te.legra.ph/file/d32e45c80e56fa1f97af1.jpg"
 GROUP_START_IMG = os.environ.get("GROUP_START_IMG", True) or "https://te.legra.ph/file/d32e45c80e56fa1f97af1.jpg"
-anon_pic = os.environ.get("anon_pic", True) or "@https://te.legra.ph/file/d32e45c80e56fa1f97af1.jpg"
+ANON_PIC = os.environ.get("ANON_PIC", True) or "https://te.legra.ph/file/d32e45c80e56fa1f97af1.jpg"
 
 BL_CHATS = {int(x) for x in os.environ.get("BL_CHATS", "").split()}
 
