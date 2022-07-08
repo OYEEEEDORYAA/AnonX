@@ -1,6 +1,26 @@
+# ---------------------------------------------------------------------
+
+# This file is a part of https://github.com/AnonXTG/AnonX. Licenced under GNU Public Licence.
+
+# The GNU General Public License is a free, copyleft license for
+# software and other kinds of works.
+
+# The licenses for most software and other practical works are designed
+# to take away your freedom to share and change the works.  By contrast,
+# the GNU General Public License is intended to guarantee your freedom to
+# share and change all versions of a program--to make sure it remains free
+# software for all its users.  We, the Free Software Foundation, use the
+# GNU General Public License for most of our software; it applies also to
+# any other work released this way by its authors.  You can apply it to
+# your programs, too.
+
+# ---------------------------------------------------------------------
+
+
+
 import os
 
-# ----- Some Vars are already filled you need not to fill the again ------
+# Some Vars are already filled you need not to fill the again
 
 # Token from botfather 
 TOKEN = os.environ.get("TOKEN", "")
@@ -66,8 +86,6 @@ WALL_API = os.environ.get("WALL_API", None)
 
 To remove background of images # From:- https://www.remove.bg/
 REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", "")
-
-## More info written at right side from this line.
 
 OPENWEATHERMAP_ID = os.environ.get("OPENWEATHERMAP_ID", "") # From:- https://openweathermap.org/api
 GENIUS_API_TOKEN = os.environ.get("GENIUS_API_TOKEN", None) # From:- http://genius.com/api-clients
