@@ -18,7 +18,7 @@
 
 import os
 
-# Some Vars are already filled you need not to fill the again
+# Some Vars are already filled you need not to fill them again
 
 # Token from botfather 
 TOKEN = os.environ.get("TOKEN", "")
