@@ -66,7 +66,7 @@ pendulum==2.1.2
 img2pdf==0.4.3
 google-api-python-client==2.29.0
 secureme==0.0.4
-git+https://github.com/TeamScenario/GoGoAnimeAPI.git
+git+https://github.com/AnonXTG/GoGoAnimeAPI.git
 better_profanity==0.7.0
 pydub==0.25.1
 nudepy==0.5.1
