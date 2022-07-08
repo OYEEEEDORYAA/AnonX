@@ -2,8 +2,8 @@
 
 > A Powerful Telegram Management Bot Project.
 
-``` A powerful modular group management bot for managing Telegram groups. 
-
+``` 
+A powerful modular group management bot for managing Telegram groups. 
 This bot makes easy for the owner to manage their groups with 
 hassle free service.
 
