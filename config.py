@@ -71,8 +71,8 @@ REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", "")
 
 OPENWEATHERMAP_ID = os.environ.get("OPENWEATHERMAP_ID", "") # From:- https://openweathermap.org/api
 GENIUS_API_TOKEN = os.environ.get("GENIUS_API_TOKEN", None) # From:- http://genius.com/api-clients
-MONGO_DB_URL = os.environ.get("MONGO_DB_URL", "True")
-REDIS_URL = os.environ.get("REDIS_URL", "True")
+MONGO_DB_URL = os.environ.get("MONGO_DB_URL", True)
+REDIS_URL = os.environ.get("REDIS_URL", True)
 BOT_ID = int(os.environ.get("BOT_ID", None)) # Get the user ID of bot, if you are using Telegram's unofficial app, it is easy to find.
 SUPPORT_CHAT = os.environ.get("SUPPORT_CHAT", None) # Support Chat Group Link (Use AnonXChats || Dont Use https://t.me/AnonXChats)
 SPAMWATCH_SUPPORT_CHAT = os.environ.get("SPAMWATCH_SUPPORT_CHAT", None) # Use @SpamWatchSupport
